@@ -1,9 +1,0 @@
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net8.0/petshope.GeneratedMSBuildEditorConfig.editorconfig
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net8.0/petshope.AssemblyInfoInputs.cache
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net8.0/petshope.AssemblyInfo.cs
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net8.0/petshope.csproj.CoreCompileInputs.cache
-C:\Users\Gabs\repos\Pet-shop-Camaleao\obj\Debug\net8.0\petshope.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabs\repos\Pet-shop-Camaleao\obj\Debug\net8.0\petshope.AssemblyInfoInputs.cache
-C:\Users\Gabs\repos\Pet-shop-Camaleao\obj\Debug\net8.0\petshope.AssemblyInfo.cs
-C:\Users\Gabs\repos\Pet-shop-Camaleao\obj\Debug\net8.0\petshope.csproj.CoreCompileInputs.cache
-C:\Users\Gabs\repos\Pet-shop-Camaleao\obj\Debug\net8.0\petshope.sourcelink.json

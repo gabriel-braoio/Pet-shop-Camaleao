@@ -1,4 +1,0 @@
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net10.0/petshope.GeneratedMSBuildEditorConfig.editorconfig
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net10.0/petshope.AssemblyInfoInputs.cache
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net10.0/petshope.AssemblyInfo.cs
-/Users/gabrielcavalcanti/RiderProjects/petshope/petshope/obj/Debug/net10.0/petshope.csproj.CoreCompileInputs.cache
