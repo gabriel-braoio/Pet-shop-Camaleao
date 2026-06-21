@@ -1,4 +1,4 @@
-# 🐾 PetShope - Sistema de Gerenciamento de Pet Shop
+# 🐾 PetShope - Sistema de Gerenciamento de Pet Shop Camaleão
 
 Um projeto educacional desenvolvido em **C#** para aprender e consolidar conceitos fundamentais de **Programação Orientada a Objetos (OOP)**, como construtores, relacionamentos entre objetos e estruturas de dados.
 
