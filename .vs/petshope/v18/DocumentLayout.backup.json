@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\primary\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:primary\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\primary\\veterianario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:primary\\veterianario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\primary\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:primary\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\primary\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:primary\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\petshope.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:petshope.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|c:\\users\\gabs\\source\\repos\\gabriel-braoio\\pet-shop-camaleao\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D5F2863-8A0B-4A64-A405-3FECC5FDC982}|petshope.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Sistema.cs",
+              "RelativeDocumentMoniker": "primary\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Sistema.cs*",
+              "RelativeToolTip": "primary\\Sistema.cs*",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwLYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:41:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPQAAAAAAAAAAAArwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-23T22:34:11.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Consulta.cs",
+              "RelativeDocumentMoniker": "primary\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Consulta.cs",
+              "RelativeToolTip": "primary\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:33:39.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dono.cs",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Dono.cs",
+              "RelativeDocumentMoniker": "primary\\Dono.cs",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Dono.cs",
+              "RelativeToolTip": "primary\\Dono.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAywBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:33:32.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veterianario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Veterianario.cs",
+              "RelativeDocumentMoniker": "primary\\Veterianario.cs",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\primary\\Veterianario.cs",
+              "RelativeToolTip": "primary\\Veterianario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA7wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:31:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "petshope",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\petshope.csproj",
+              "RelativeDocumentMoniker": "petshope.csproj",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\petshope.csproj",
+              "RelativeToolTip": "petshope.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T22:30:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-23T22:29:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gabs\\source\\repos\\gabriel-braoio\\Pet-shop-Camaleao\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:29:49.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

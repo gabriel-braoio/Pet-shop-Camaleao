@@ -13,7 +13,6 @@ public class Pet
         TipoAnimal = tipoanimal;
         Idade = idade;
         Dono = dono;
-
     }
 }
-   
+
